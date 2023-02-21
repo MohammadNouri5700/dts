@@ -1,0 +1,1 @@
+arch/arm/boot/dts/am437x-gp-evm-hdmi.dtb: arch/arm/boot/dts/.am437x-gp-evm-hdmi.dtb.dts.tmp arch/arm/boot/dts/am43xx-clocks.dtsi

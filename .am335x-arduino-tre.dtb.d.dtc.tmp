@@ -1,0 +1,1 @@
+arch/arm/boot/dts/am335x-arduino-tre.dtb: arch/arm/boot/dts/.am335x-arduino-tre.dtb.dts.tmp arch/arm/boot/dts/am33xx-clocks.dtsi

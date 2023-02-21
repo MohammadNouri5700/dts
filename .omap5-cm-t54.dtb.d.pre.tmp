@@ -1,0 +1,10 @@
+omap5-cm-t54.o: arch/arm/boot/dts/omap5-cm-t54.dts \
+ arch/arm/boot/dts/omap5.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
+ arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
+ arch/arm/boot/dts/include/dt-bindings/pinctrl/omap.h \
+ arch/arm/boot/dts/skeleton.dtsi arch/arm/boot/dts/omap4-cpu-thermal.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/thermal/thermal.h \
+ arch/arm/boot/dts/omap5-gpu-thermal.dtsi \
+ arch/arm/boot/dts/omap5-core-thermal.dtsi

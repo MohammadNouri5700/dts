@@ -1,0 +1,6 @@
+am335x-base0033.o: arch/arm/boot/dts/am335x-base0033.dts \
+ arch/arm/boot/dts/am335x-igep0033.dtsi arch/arm/boot/dts/am33xx.dtsi \
+ arch/arm/boot/dts/include/dt-bindings/gpio/gpio.h \
+ arch/arm/boot/dts/include/dt-bindings/pinctrl/am33xx.h \
+ arch/arm/boot/dts/include/dt-bindings/pinctrl/omap.h \
+ arch/arm/boot/dts/skeleton.dtsi arch/arm/boot/dts/tps65910.dtsi
